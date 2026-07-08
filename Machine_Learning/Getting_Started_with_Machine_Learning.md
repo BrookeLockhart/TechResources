@@ -15,7 +15,7 @@ Once an ML model is trained, it must be integrated into an application so its pr
 
 The following sections outline the general ML workflow involved in developing and deploying this type of model.
 
-<h3 id = '1'> Runing the Model</h3>
+<h3 id = '1'> Running the Model</h3>
 Machine learning development typically follows a structured workflow consisting of several key stages. The steps below describe the stages relevant to this project.
 
 <h4 id = '1.1'> Data Collection</h4>
